@@ -70,5 +70,7 @@
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/e6.jpg" width="300" height="300"><br>
 <第七張圖><br>
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/e7.jpg" width="300" height="300"><br>
-<stop motion效果gif><br>
+<stop motion效果的gif><br>
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/stop_motion/stop_motion.gif" width="300" height="300"><br>
+
+因為吾組相機的數量不足，所以無法完全呈現出助教於codelab中stop motion的效果，而這導致吾組只能拍攝靜止的物體。然而由上面的stop motion的gif所呈現的效果符合吾組一定的期待，是故吾組推測相機若是夠多的話，即可以同時拍攝動態的物體並且達到助教於codelab中stop motion的效果!<br><br>
