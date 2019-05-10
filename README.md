@@ -52,3 +52,18 @@
 
 ## 3 different effects
 
+<第一張圖><br>
+<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/e1.jpg" width="300" height="300"><br>
+<第二張圖><br>
+<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/e2.jpg" width="300" height="300"><br>
+<第三張圖><br>
+<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/e3.jpg" width="300" height="300"><br>
+<第四張圖><br>
+<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/e4.jpg" width="300" height="300"><br>
+<第五張圖><br>
+<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/e5.jpg" width="300" height="300"><br>
+<第六張圖><br>
+<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/e6.jpg" width="300" height="300"><br>
+<第七張圖><br>
+<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/e7.jpg" width="300" height="300"><br>
+<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/stop_motion/stop_motion.gif" width="300" height="300"><br>
