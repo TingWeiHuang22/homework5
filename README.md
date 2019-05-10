@@ -41,10 +41,14 @@
 由上面三組gif的結果比較可以得知，第一組的gif(第一張圖片與第一、二張align後的圖片所產生的gif)表現的效果比起其他兩組還要好。
 
 ##  Image processing to enhance effect
-此部份吾組採用的方法即是讓上述曾提及的第一二、第一三以及第一四這三張alignment後的圖片的結果不會有黑色像素產生，進而讓後面製作gif的時候能增強Motion parallax的效果。而們實作的細節就是擷取我們要的圖片內容範圍->去除黑色像素的部分->最後在resize成800 * 900，而這樣alignment後的圖片就不會有黑色像素的生成!<br><br>
+此部份吾組採用的方法即是讓上述曾提及的第一二、第一三以及第一四這三張alignment後的圖片的結果不會有黑色像素產生，進而讓後面製作gif的時候能增強Motion parallax的效果。而我們實作的細節為以下步驟：從alignment後的圖片擷取吾組所要求的範圍內容->去除黑色像素的部分->最後在resize成800 * 900，而這樣產生的
+新的alignment圖片就不會有黑色像素的生成!<br><br>
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/12/re_12.gif" width="500" height="500">
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/13/re_13.gif" width="500" height="500">
-<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/14/re_14.gif" width="500" height="500">
+<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/14/re_14.gif" width="500" height="500"><br>
+
+從上面三組gif可以得知，其Motion parallax的效果比起上一個部分三組的Motion paralla效果還要好。
+
 
 ## 3 different effects
 
