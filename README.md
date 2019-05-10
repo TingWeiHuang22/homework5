@@ -3,7 +3,7 @@
 **電腦視覺特效-第六組**  
   
 ##  Multi-view images
-此部分吾組拍攝Multi-view images的主軸是以以鴨子為中心點進行拍攝。並且於拍攝完一張圖片後向右平移一小段並繼續拍攝下一張圖片<br><br>
+此部分吾組拍攝Multi-view images的主軸是以以鴨子為中心點進行拍攝。並且於拍攝完一張圖片後向右平移一小段並繼續拍攝下一張圖片!<br><br>
 <第一張圖><br>
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/1.jpg" width="300" height="300"><br>
 <第二張圖><br>
@@ -11,7 +11,7 @@
 <第三張圖><br>
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/3.jpg" width="300" height="300"><br>
 <第四張圖><br>
-<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/4.jpg" width="300" height="300"><br>
+<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/4.jpg" width="300" height="300">
 
 ##  Image alignment results
 test<br><br>
