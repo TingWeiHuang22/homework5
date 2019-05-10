@@ -31,12 +31,14 @@
 ## Multi-view 3D visual effects
 此部份吾組要實作的3D visual effects為Motion parallax<br><br>
 
-<第一張圖片與第一、二張align後的圖片所產稱的gif><br>
+<第一張圖片與第一、二張align後的圖片所產生的gif><br>
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/12/12.gif" width="500" height="500"><br>
-<第一張圖片與第一、三張align後的圖片所產稱的gif><br>
+<第一張圖片與第一、三張align後的圖片所產生的gif><br>
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/13/13.gif" width="500" height="500"><br>
-<第一張圖片與第一、四張align後的圖片所產稱的gif><br>
+<第一張圖片與第一、四張align後的圖片所產生的gif><br>
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/14/14.gif" width="500" height="500">
+
+由上面三組gif的結果比較可以得知，第一組的gif(第一張圖片與第一、二張align後的圖片所產生的gif)表現的效果比起其他兩組還要好。\\
 
 ##  Image processing to enhance effect
 test<br><br>
