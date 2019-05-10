@@ -47,8 +47,8 @@
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/13/re_13.gif" width="500" height="500">
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/14/re_14.gif" width="500" height="500"><br>
 
-從上面三組gif可以得知，其Motion parallax的效果比起上一個部分三組的Motion parallax效果還要好。<br>
-然而就此部分三組的gif來進行比較的話，吾組認為第二、三組gif的Motion parallax的效果比起第一組還要好。因為吾組認為第一組的Motion parallax效果並不夠明顯(即是背景的變化量不大)，而二、三組的gif的Motion parallax效果可以看出背景有明顯的變化，雖然鴨子在gif展示的過程中會有稍微變形，然而吾組認為這是在可接受的範圍。
+從上面三組gif可以得知，其Motion parallax的效果比起上一個部分三組的Motion parallax效果還要好。<br><
+然而就此部分三組的gif來進行比較的話，吾組認為第二、三組gif的Motion parallax的效果比起第一組還要好。因為吾組認為第一組的Motion parallax效果並不夠明顯(即是背景的變化量不大)，而二、三組gif的Motion parallax效果可以看出背景有明顯的變化，雖然鴨子在gif展示的過程中會有稍微變形，然而吾組認為這是在可接受的範圍。
 
 ## 3 different effects
 
