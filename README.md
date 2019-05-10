@@ -14,11 +14,15 @@
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/4.jpg" width="300" height="300">
 
 ##  Image alignment results
-test<br><br>
+此部分吾組利用ORB這個feature extrators來產生兩張圖片matching的結果以及兩張圖片alignment後的結果。而圖片的來源則是從第一部分的4張圖片而來!<br><br>
+
+<第一張圖片與第二張圖片matching的結果/第一張圖片與第二張圖片alignment後的結果><br>
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/12/matches_ORB.jpg" width="500" height="250">
-<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/12/align_ORB.jpg" width="250" height="250">
+<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/12/align_ORB.jpg" width="250" height="250"><br>
+<第一張圖片與第三張圖片matching的結果/第一張圖片與第三張圖片alignment後的結果><br>
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/13/matches_ORB.jpg" width="500" height="250">
-<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/13/align_ORB.jpg" width="250" height="250">
+<img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/13/align_ORB.jpg" width="250" height="250"><br>
+<第一張圖片與第四張圖片matching的結果/第一張圖片與第四張圖片alignment後的結果><br>
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/14/matches_ORB.jpg" width="500" height="250">
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/14/align_ORB.jpg" width="250" height="250">
                                                                                                                       
