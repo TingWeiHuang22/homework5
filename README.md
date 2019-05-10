@@ -51,10 +51,10 @@
 然而就此部分三組的gif來進行比較的話，吾組認為第二、三組gif的Motion parallax的效果比起第一組還要好。因為吾組認為第一組的Motion parallax效果並不夠明顯(即是背景的變化量不大)，而二、三組gif的Motion parallax效果可以看出背景有明顯的變化，雖然鴨子在gif展示的過程中會有稍微變形，然而吾組認為這是在可接受的範圍。
 
 ## other different effect
-此部分吾組實作的different effect為stop motion effect，而實作的流程如下所示：
-1.拍攝第一張圖片->向右平移->拍攝第二張圖片...->拍攝完第七張圖片
-2.所有圖片皆對第四張圖片(正中間的圖片)使用ORB來產生出feature alignment後的pictures
-3.然後再把這些alignment圖片與第四張圖片製作成gif，並且輸出，這樣做成的效果即是stop motion!
+此部分吾組實作的different effect為stop motion effect，而實作的流程如下所示：<br>
+1.拍攝第一張圖片->向右平移->拍攝第二張圖片...->拍攝完第七張圖片<br>
+2.所有圖片皆對第四張圖片(正中間的圖片)使用ORB來產生出feature alignment後的pictures<br>
+3.然後再把這些alignment圖片與第四張圖片製作成gif，並且輸出，這樣做成的效果即是stop motion!<br>
 
 <第一張圖><br>
 <img src="https://github.com/TingWeiHuang22/homework5/blob/master/picture/e1.jpg" width="300" height="300"><br>
